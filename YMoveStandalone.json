@@ -1,0 +1,10 @@
+{
+  "Author": "wasur / Codex",
+  "Name": "天遁地改",
+  "InternalName": "YMoveStandalone",
+  "Punchline": "移動送信時のY座標へ指定値を加算します。",
+  "Description": "通常移動と戦闘移動の送信データにY座標補正を適用します。初期状態は無効です。設定は /ymove で開きます。",
+  "RepoUrl": "https://github.com/natukimiyabi23-eng/TentonChikai",
+  "ApplicableVersion": "any",
+  "Tags": ["movement", "deep-dungeon", "utility"]
+}
